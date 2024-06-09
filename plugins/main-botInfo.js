@@ -52,7 +52,7 @@ let infobt = `
 *≡ OWNER*
   *ALI NAFIS*
 ▢ Instagram :
-  • ${alinafis0}
+  • ${fgig}
 ▢ Telegram : 
   • @alinafisse0
 ▢ YouTube : 
