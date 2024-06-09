@@ -54,15 +54,13 @@ let infobt = `
 ▢ Instagram :
   • ${fgig}
 ▢ Telegram : 
-  • t.me/fgsupp_bot (FG) 
-  • t.me/fg98ff (canal)
-  • t.me/fgawgp (grupo)
+  • @alinafisse0
 ▢ YouTube : 
-  • https://youtube.com/fg98f
+  • https://youtube.com/aliali
   
  *≡ HELPERS*
   *ANDREA*
-▢ WhatsApp : wa.me/573125484672`
+▢ WhatsApp : wa.me/212681951915a`
 
 /*conn.sendButton(m.chat, infobt, mssg.ig, null, [
   ['ꨄ︎ Apoyar', `${usedPrefix}donate`],
