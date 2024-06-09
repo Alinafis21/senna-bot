@@ -18,21 +18,18 @@ ${bgp2}
 ${bgp3}
 
 ▢ 𝐌𝐘 - 𝐌𝐚𝐲𝐥𝐮𝐱 | ᴮᴼᵀ⚡
-https://chat.whatsapp.com/CTILZXSriIE3M40anVyPT4
+https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4
 
 ▢ 📲💻ANDROID WORLD🎬🎮
 https://chat.whatsapp.com/Ly4I2LObSvW8VgOnJjofgA
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
-▢ Todos los Grupos
- https://instabio.cc/fg98ff
-
 ▢ *Telegram*
-• https://t.me/fgawgp
+• https://t.me/
  ▢ *PayPal*
-• https://paypal.me/fg98f
+• https://paypal.me/alinafis2005
 ▢ *YouTube*
-• https://www.youtube.com/fg98f`)
+• https://www.youtube.com/aliali`)
 
 }
 handler.help = ['support']
