@@ -36,9 +36,9 @@ const defaultMenu = {
 🟢 Tiempo activo : %muptime
 %sbot
 ▢ ADD
-• https://instagram.com/fg98_ff
+• https://instagram.com/alinafis0
 
-• https://fgmods.xyz
+• https://wa.me/qr/VUY3MMJAH2WPC1
 
 ────────────
 %readmore
@@ -160,7 +160,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     ], m, rpl)*/
     conn.sendFile(m.chat, pp, 'menu.jpg', text.trim(), m, null, rcanal)
   
-    m.react('📚') 
+    m.react('📄') 
     
   } catch (e) {
     conn.reply(m.chat, '❎ Lo sentimos, el menú tiene un error', m)
@@ -169,7 +169,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 }
 //handler.help = ['help']
 //handler.tags = ['main']
-handler.command = ['menu', 'help', 'menú'] 
+handler.command = ['menu', 'help', 'menú', 'اوامر', 'str'] 
 handler.register = false
 
 export default handler
