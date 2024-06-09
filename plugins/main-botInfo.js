@@ -50,9 +50,9 @@ let infobt = `
 ▢ Total Chats: *${chats.length}*
 
 *≡ OWNER*
-  *FG98*
+  *ALI NAFIS*
 ▢ Instagram :
-  • ${fgig}
+  • ${alinafis0}
 ▢ Telegram : 
   • @alinafisse0
 ▢ YouTube : 
